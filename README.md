@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **jithmichathu123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G0rjwMEOwYthmhf733AmQLZ5oR6Jttlj/view?usp=drive_link](https://drive.google.com/file/d/1G0rjwMEOwYthmhf733AmQLZ5oR6Jttlj/view?usp=drive_link)
-
 ---
 
 <h3 align="left">Connect with me:</h3>
