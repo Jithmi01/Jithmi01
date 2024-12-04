@@ -11,9 +11,9 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
-- 🔭 I’m currently working on **HCI University Project**
+- 🔭 I’m currently working on **Interior_Design Individual Website Designing Project**
 
-- 🌱 I’m currently learning **Python, Software Testing Related Courses**
+- 🌱 I’m currently learning **Frontend development frameworks and Software Testing Related Courses**
 
 - 📫 How to reach me **jithmichathu123@gmail.com**
 
