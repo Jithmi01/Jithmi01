@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Interior_Design Individual Website Designing Project**
 
-- 🌱 I’m currently learning **Frontend development frameworks and Software Testing Related Courses**
+- 🌱 I’m currently learning **Fullstack development frameworks and Software Testing Related Courses**
 
 - 📫 How to reach me **jithmichathu123@gmail.com**
 
