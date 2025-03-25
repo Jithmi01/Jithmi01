@@ -11,9 +11,9 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
-- 🔭 I’m currently working on **Interior_Design Individual Website Designing Project**
+- 🔭 I’m currently working on **MERN Stack Project**
 
-- 🌱 I’m currently learning **Fullstack development frameworks and Software Testing Related Courses**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **jithmichathu123@gmail.com**
 
