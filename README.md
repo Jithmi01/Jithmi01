@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>, I'm Jithmi Chathurangika</h1> 
-<h3 align="center">I am 3rd Year Undergraduate at SLIIT</h3>
+<h3 align="center">I am 4th Year Undergraduate at SLIIT</h3>
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
