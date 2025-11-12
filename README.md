@@ -11,9 +11,9 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
-- 🔭 I’m currently working on **MERN Stack Project**
+- 🔭 I’m currently working on **Final Year Research Project**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **jithmichathu123@gmail.com**
 
